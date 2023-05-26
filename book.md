@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Artigos e Amigos"
-description: "grupo de pesquisa"
+title: "WIT"
+description: "A&A"
 header-img: "img/capaextra.jpg"
 ---
 
