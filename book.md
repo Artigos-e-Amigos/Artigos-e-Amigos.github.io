@@ -2,14 +2,14 @@
 layout: page
 title: "Artigos e Amigos"
 description: "grupo de pesquisa"
-header-img: "img/boat-waves.jpg"
+header-img: "img/capaextra.jpg"
 ---
 
 Você pode ver o trabalho na integra aqui:
 
 > Van Vossen, L. P et al., [Análise da presença feminina no corpo docente e sua relação com o corpo discente feminino nos cursos de TIC](book-sources/WIT2023___A_A.pdf).
 
-O [arquivo versão Latex e os códigos] utilizados na pesquisa também estão disponíveis(https://github.com/Artigos-e-Amigos/WIT-2023).
+O [arquivo versão Latex e os códigos](https://github.com/Artigos-e-Amigos/WIT-2023) utilizados na pesquisa também estão disponíveis.
 
 
 Questões de pesquisa
