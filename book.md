@@ -29,3 +29,10 @@ Responsáveis pelo projeto
 - Eric Carvalho da Silveira;
 - Isabela Gasparini;
 - Luciana Bolan Frigo.
+
+Sobre o evento
+----------------
+
+O WIT – Women in Information Technology está em sua décima sétima edição, sendo realizado desde 2007 como uma iniciativa da SBC para discutir os assuntos relacionados a questões de gênero e a Tecnologia de Informação (TI) no Brasil – histórias de sucesso, políticas de incentivo e formas de engajamento e atração de jovens, especialmente mulheres, para as carreiras associadas à TI. Organizado na forma de apresentação de artigos, palestras convidadas e painéis, o workshop é centrado em debater problemas relacionados à mulher e ao seu acesso à TI, tanto do ponto de vista de mercado de trabalho quanto de inclusão e alfabetização digital. Os temas abordados se concentram na necessidade de educar, recrutar e treinar mulheres, como uma política estratégica para o desenvolvimento e competitividade nacional e regional.
+
+O Fórum Meninas Digitais faz parte das atividades do WIT desde 2011 e é uma das ações do Programa Meninas Digitais da SBC. Tal Programa é direcionado às alunas do ensino fundamental, médio e tecnológico, para que conheçam melhor a área de informática e das Tecnologias da Informação e Comunicação, de forma a motivá-las a seguir carreira nessas áreas. Durante o evento os multiplicadores desta proposta aproveitam a oportunidade para discutir projetos e parcerias, de forma a disseminar a iniciativa no território nacional.
