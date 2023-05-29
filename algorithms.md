@@ -7,4 +7,4 @@ header-img: "img/capaextra.jpg"
 
 Em construção...
 
-<p>&nbsp;<img align="center" src="img/laisCircular.jpg" alt="mariaaseret" /></p>
+<p>&nbsp;<img align="center" src="ihttps://artigos-e-amigos.github.io/img/laisCircular.jpg" alt="mariaaseret" /></p>
