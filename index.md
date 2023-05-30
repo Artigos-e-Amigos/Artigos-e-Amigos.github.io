@@ -14,5 +14,3 @@ O objetivo principal é compartilhar nossos projetos:
 - Também contém todos nossos [projetos anteriores](../tweets);
 - Bem como um [apresentação de todos nossos pesquisadores](../algorithms).
 
-
-<link rel='icon' href='https://artigos-e-amigos.github.io/img/icon.ico' type='image/x-icon' sizes="16x16" />
