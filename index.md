@@ -13,3 +13,6 @@ O objetivo principal é compartilhar nossos projetos:
 - Os [slides utilizados durante os eventos](../slides) que participamos;
 - Também contém todos nossos [projetos anteriores](../tweets);
 - Bem como um [apresentação de todos nossos pesquisadores](../algorithms).
+
+
+<link rel='icon' href='https://artigos-e-amigos.github.io/img/icon.ico' type='image/x-icon' sizes="16x16" />
