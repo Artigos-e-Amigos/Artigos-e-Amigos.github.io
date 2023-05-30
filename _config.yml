@@ -1,12 +1,12 @@
 # Usign the Clean Blog theme
 
-title: Mathematical Tours of Data Sciences
-author: mathematical-tours
-email: gabriel.peyre@ens.fr
-description: Mathematical Tour of Data Sciences
+title: Artigos e Amigos
+author: mariaaseret
+email: mariat95@gmail.com
+description: Artigos e Amigos
 baseurl: ""
-url: "http://mathematical-tours.github.io/"
-github_username:  mathematical-tours
+url: "https://artigos-e-amigos.github.io/"
+github_username:  artigos-e-amigos
 
 # Build settings
 markdown: kramdown
@@ -14,7 +14,7 @@ permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
 
-name: Mathematical Tours of Data Sciences
+name: Artigos e Amigos
 gems:
   - jekyll-feed
   - jekyll-paginate
