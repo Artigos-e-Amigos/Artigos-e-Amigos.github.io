@@ -12,6 +12,7 @@ Você pode ver o trabalho na integra aqui:
 
 O [arquivo versão Latex e os códigos](https://github.com/Artigos-e-Amigos/CTIC2023) utilizados na pesquisa também estão disponíveis.
 
+> [Slides do artigo](slides/CTIC.pdf).
 
 Resumo
 ----------------
