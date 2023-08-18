@@ -5,11 +5,8 @@ description: "A&A"
 header-img: "img/capaextra.jpg"
 ---
 
-Em construção...
-
-
 <head>
-    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
     <link href="blog.css" rel="stylesheet">
 </head>
