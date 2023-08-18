@@ -11,6 +11,7 @@ header-img: "img/capaextra.jpg"
 
 
 Você pode ver o trabalho na integra aqui:
+----------------
 
 > Vasconcellos, D et al., [Estudos sobre evasão em diferentes ambientes educacionais e seus relacionamentos com gênero e a diversidade](book-sources/CTIC_2023___A_A).
 > [Slides do artigo](slides/CTIC.pdf).
