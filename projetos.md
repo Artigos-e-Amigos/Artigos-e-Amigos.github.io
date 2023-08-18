@@ -19,8 +19,7 @@ Em construção...
         <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">
                 <strong class="d-inline-block mb-2 text-primary">WIT</strong>
-                <div class="mb-1 text-muted">Nov 12</div>
-                <p class="card-text mb-auto">O que foi o artigo? Explicar direitinho sobre tudo e depois mandar pra outra pg.</p>
+                <p class="card-text mb-auto">Women in Information Technology</p>
                 <a href="#">Continue lendo</a>
             </div>
         </div>
@@ -28,9 +27,8 @@ Em construção...
      <div class="col-md-6">
         <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">
-                <strong class="d-inline-block mb-2 text-primary">WIT</strong>
-                <div class="mb-1 text-muted">Nov 12</div>
-                <p class="card-text mb-auto">O que foi o artigo? Explicar direitinho sobre tudo e depois mandar pra outra pg.</p>
+                <strong class="d-inline-block mb-2 text-primary">CTIC</strong>
+                <p class="card-text mb-auto">Concurso de Trabalhos de Iniciação Científica </p>
                 <a href="#">Continue lendo</a>
             </div>
         </div>
